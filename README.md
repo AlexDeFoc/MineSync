@@ -5,14 +5,9 @@
 ## Instalation
 ### Guide for Windows:
 1. Go to the [Releases](https://github.com/AlexDeFoc/MineSync/releases/latest)
-2. Download the executable for your cpu architecture. Most probably it's 64 or 32 bit. It will look like this: _win_cpu_???.exe. If you don't understand the names of the architectures provided check this footnote.[^1]
-[^1]: amd64 = 64 bit cpu, i386 = 32 bit cpu
-3. Double-Click it and follow the steps of the installer.
+2. Download the 64 or 32 bit version
+3. Extract where you want
 4. Done!
-### Guide for Linux/MacOS:
-1. Go to the [Releases](https://github.com/AlexDeFoc/MineSync/releases/latest)
-2. Download the zip file. It has a .zip extension.
-3. Extract the files from the archive into a folder where you want the app to be.
 
 <br>
 
