@@ -20,5 +20,5 @@
 
 <br>
 
-## Problems
+## Having Problems?
 If you encounter any issues with the app report it here, please also provide a screenshot/video, here: [Issues](https://github.com/AlexDeFoc/MineSync/issues) and use the appropriate flair.
